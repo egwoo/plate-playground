@@ -3,9 +3,10 @@
 yarn add @udecode/plate
 yarn add slate slate-react slate-history slate-hyperscript react react-dom styled-components
 yarn add @udecode/plate-test-utils styled-icons styled-components @types/styled-components faker@5.5.3 @types/faker@5.5.3 twin.macro rollup-plugin-typescript2
-```
+
 For Typescript to compile, I removed a jsx declaration that doesn't seem like it did anything in values.tsx
 I also had to add /// <reference types="@types/styled-components/cssprop" /> to react-app-env.d.ts
+```
 
 # Getting Started with Create React App
 
